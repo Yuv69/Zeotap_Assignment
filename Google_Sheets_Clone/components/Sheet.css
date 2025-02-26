@@ -1,0 +1,27 @@
+.sheet-container {
+  padding: 10px;
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 5px;
+}
+
+input {
+  width: 100%;
+  border: none;
+  text-align: center;
+}
+
+input:focus {
+  outline: 2px solid blue;
+}
+
+  

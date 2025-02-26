@@ -1,0 +1,21 @@
+.formula-bar {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    background: #f4f4f4;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .formula-bar span {
+    font-weight: bold;
+    margin-right: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .formula-bar input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+  }
+  

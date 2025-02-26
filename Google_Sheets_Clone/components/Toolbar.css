@@ -1,0 +1,23 @@
+.toolbar {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background: #f4f4f4;
+  }
+  
+  .toolbar button {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background: white;
+    cursor: pointer;
+  }
+  
+  .toolbar button:hover {
+    background: #ddd;
+  }
+  
+  .toolbar input[type="color"] {
+    border: none;
+    cursor: pointer;
+  }
+  
